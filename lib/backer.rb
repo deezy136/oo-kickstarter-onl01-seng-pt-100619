@@ -12,6 +12,6 @@ class Backer
     
        @backed_projects << project
         bac = Project.new(project)
-        bac.b
+        p bac.bakers
   end 
 end 
