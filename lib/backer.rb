@@ -14,4 +14,4 @@ class Backer
         bac = Project.new(project)
         bac.backers << self 
   end 
-end 
+end
